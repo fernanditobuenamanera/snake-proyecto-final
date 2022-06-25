@@ -25,7 +25,7 @@ se puede sacar adelante.
 💭 Para contribuir: 
 
 Si crees que tienes algo que aportar no dudes en escribirme un correo en el que no tardaré mucho en
-contestar. Quién sabe, quizás podemos publicarlo en la PlayStore :D.
+contestar. Quién sabe, quizás podamos publicarlo en la PlayStore :D.
 📩 fjgarrido@ieszaidinvergeles.org
 
 ⛔ LICENCIA
@@ -45,7 +45,7 @@ fernanditobuenamanera.inc marca resgistrada.
 ✔️ This project is free for its use, reproduction and distribution in the educational and learning field. ❌ Can never be used
 for remunerative purposes without prior notice or else you will be sued.
 
-Contact: fjgarrido@ieszaidinvergeles.org
+📩 Contact: fjgarrido@ieszaidinvergeles.org
 
 fernanditobuenamanera.inc registered trademark.
 
