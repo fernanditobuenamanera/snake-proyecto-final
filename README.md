@@ -13,7 +13,7 @@ Es un juego retro muy bueno y que a todos nos trae muchos recuerdos. 🎮🕹️
 
 Simplemente debes descargar los archivos, que lo puedes hacer creando una carpeta y dentro de ella haciendo
 un "git clone https://github.com/fernanditobuenamanera/snake-proyecto-final.git" dentro de la consola.
-Dentro de la carpeta encontrarás un ejecutable con el nombre Snake, simplemente soble clic y a jugar
+Dentro de la carpeta encontrarás un ejecutable con el nombre Snake, simplemente soble clic y a jugar.
 **Recuerda que debes tener las herramientas necesarias para poder ejecutarlo**
 
 📝 Autor:
